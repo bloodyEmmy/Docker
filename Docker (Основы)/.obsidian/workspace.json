@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Контейнеризация и Docker/Docker Rest API.md",
+                "file": "2. Контейнеры и образы/Команды контейнера.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker Rest API"
+              "title": "Команды контейнера"
             }
           }
         ]
@@ -183,14 +183,20 @@
   },
   "active": "af1a43b64f83c052",
   "lastOpenFiles": [
+    "2. Контейнеры и образы/Флаги контейнера.md",
+    "2. Контейнеры и образы/Состояния контейнеров Docker.md",
+    "2. Контейнеры и образы/Контейнер.md",
+    "2. Контейнеры и образы/Команды контейнера.md",
+    "1. Контейнеризация и Docker/Docker Rest API.md",
     "1. Контейнеризация и Docker/Docker Hub, Registry.md",
     "1. Контейнеризация и Docker/Docker Engine.md",
     "1. Контейнеризация и Docker/Docker Daemon.md",
-    "1. Контейнеризация и Docker/Контейнеризация.md",
-    "1. Контейнеризация и Docker/Образ контейнера (Docker Image).md",
-    "1. Контейнеризация и Docker/Docker.md",
     "1. Контейнеризация и Docker/Docker Client (CLI).md",
-    "1. Контейнеризация и Docker/Docker Rest API.md",
+    "1. Контейнеризация и Docker/Docker.md",
+    "1. Контейнеризация и Docker/Образ контейнера (Docker Image).md",
+    "1. Контейнеризация и Docker/Микросервис.md",
+    "1. Контейнеризация и Docker/Контейнеризация.md",
+    "2. Контейнеры и образы",
     "Без названия.canvas",
     "1. Контейнеризация и Docker/Без названия.base",
     "Добро пожаловать.md",
