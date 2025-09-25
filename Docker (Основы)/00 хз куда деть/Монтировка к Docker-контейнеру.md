@@ -8,7 +8,7 @@
 3. Можно редактировать код на ПК, а контейнер сразу использует его без пересборки [[Образ контейнера (Docker Image)]].
 ***
 ***Синтаксис***:
->docker run -v ***/home/user/mydata***:***/app/data*** my-image
+>***docker run -v /home/user/mydata:/app/data my-image***
 - /home/user/mydata - папка на хосте.
 - /app/data - папка внутри контейнера.
 - Важно: содержимое mydata = data.
