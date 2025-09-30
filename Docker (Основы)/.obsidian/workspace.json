@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.02 Docker Команды/Команда \"commit\".md",
+                "file": "00.01 Dockerfile Команды/Команда ENTRYPOINT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Команда \"commit\""
+              "title": "Команда ENTRYPOINT"
             }
           }
         ]
@@ -183,8 +183,10 @@
   },
   "active": "5404646aaed872f3",
   "lastOpenFiles": [
-    "00.02 Docker Команды/Команда \"exec\".md",
+    "00.01 Dockerfile Команды/Команда CMD.md",
+    "00.01 Dockerfile Команды/Команда LABEL.md",
     "00.02 Docker Команды/Команда \"commit\".md",
+    "00.02 Docker Команды/Команда \"exec\".md",
     "00.02 Docker Команды/Команда \"image\".md",
     "00.02 Docker Команды/Команда \"inspect\".md",
     "00.02 Docker Команды/Команда \"container\".md",
@@ -207,8 +209,6 @@
     "00.01 Dockerfile Команды/Команда ENV.md",
     "00.01 Dockerfile Команды/Команда FROM.md",
     "00.01 Dockerfile Команды/Команда RUN.md",
-    "02. Контейнеры и образы/Лог контейнера.md",
-    "00.02 Docker Команды/Команда \"rmi\".md",
     "00.02 Docker Команды",
     "00.01 Dockerfile Команды",
     "00 хз куда деть",
