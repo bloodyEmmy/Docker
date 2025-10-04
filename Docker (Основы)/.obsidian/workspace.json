@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.02 Docker Команды/Команда \"volume\".md",
+                "file": "04. Модель Container Network и сетевой мост Docker/Конечная точка (Endpoint).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Команда \"volume\""
+              "title": "Конечная точка (Endpoint)"
             }
           }
         ]
@@ -181,18 +181,24 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "d3e1e14770c6aac0",
+  "active": "5404646aaed872f3",
   "lastOpenFiles": [
-    "03. Драйверы хранилища и тома/Висячий том (Dangling Volume).md",
-    "00.02 Docker Команды/Команда \"volume\".md",
-    "02. Контейнеры и образы/Висячий образ (Dangling Image).md",
+    "04. Модель Container Network и сетевой мост Docker/Песочница (Sandbox).md",
+    "04. Модель Container Network и сетевой мост Docker/Конечная точка (Endpoint).md",
+    "04. Модель Container Network и сетевой мост Docker/Container Network Model.md",
+    "04. Модель Container Network и сетевой мост Docker/Сеть Docker.md",
     "03. Драйверы хранилища и тома/Tmpfs (Temporary file system).md",
-    "03. Драйверы хранилища и тома/Том Docker.md",
+    "03. Драйверы хранилища и тома/OverlayFS.md",
     "03. Драйверы хранилища и тома/Bind Mount (Монтирование каталогов с хоста).md",
     "03. Драйверы хранилища и тома/Backing Filesystem.md",
-    "03. Драйверы хранилища и тома/Директория слоя (overlay2).md",
+    "03. Драйверы хранилища и тома/Флаг монтировки \"ro\".md",
+    "03. Драйверы хранилища и тома/Том Docker.md",
     "03. Драйверы хранилища и тома/Драйвер хранилища (Storage Driver).md",
-    "03. Драйверы хранилища и тома/OverlayFS.md",
+    "03. Драйверы хранилища и тома/Директория слоя (overlay2).md",
+    "03. Драйверы хранилища и тома/Висячий том (Dangling Volume).md",
+    "00.02 Docker Команды/Команда \"volume\".md",
+    "04. Модель Container Network и сетевой мост Docker",
+    "02. Контейнеры и образы/Висячий образ (Dangling Image).md",
     "03. Драйверы хранилища и тома",
     "02. Контейнеры и образы/Контрольная сумма (digest).md",
     "02. Контейнеры и образы/Кэш в Docker.md",
@@ -205,11 +211,6 @@
     "00.01 Dockerfile Команды/Команда ENTRYPOINT.md",
     "00.02 Docker Команды/Команда \"commit\".md",
     "00.02 Docker Команды/Команда \"exec\".md",
-    "00.02 Docker Команды/Команда \"inspect\".md",
-    "00.02 Docker Команды/Команда \"container\".md",
-    "00.02 Docker Команды/Команда \"history\".md",
-    "00.02 Docker Команды/Команда \"create\".md",
-    "00.02 Docker Команды/Команда \"build\".md",
     "00.02 Docker Команды",
     "00.01 Dockerfile Команды",
     "00 хз куда деть",
