@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05. Docker Swarm/Etcd.md",
+                "file": "05. Docker Swarm/Токены.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Etcd"
+              "title": "Токены"
             }
           }
         ]
@@ -183,17 +183,24 @@
   },
   "active": "5404646aaed872f3",
   "lastOpenFiles": [
-    "04. Модель Container Network и сетевой мост Docker/Собственные (встроенные) сетевые драйверы Docker.md",
-    "05. Docker Swarm/Docker Swarm.md",
+    "05. Docker Swarm/Узлы в Swarm (Nodes).md",
+    "05. Docker Swarm/Токены.md",
+    "05. Docker Swarm/Raft Consensus.md",
+    "05. Docker Swarm/Задача (Task) в Swarm.md",
+    "05. Docker Swarm/Сервис в Swarm.md",
     "05. Docker Swarm/Etcd.md",
-    "05. Docker Swarm/Узлы в Swarm.md",
+    "05. Docker Swarm/Кластер Docker Engine.md",
+    "05. Docker Swarm/Кластер Swarm.md",
+    "05. Docker Swarm/Рабочие узлы (worker nodes).md",
+    "05. Docker Swarm/Управляющие узлы (manager nodes).md",
+    "05. Docker Swarm/Docker Swarm.md",
+    "04. Модель Container Network и сетевой мост Docker/veth.md",
+    "00.01 Dockerfile Команды/Команда EXPOSE.md",
+    "04. Модель Container Network и сетевой мост Docker/Собственные (встроенные) сетевые драйверы Docker.md",
     "03. Драйверы хранилища и тома/OverlayFS.md",
     "01. Контейнеризация и Docker/Docker Engine.md",
-    "05. Docker Swarm/Кластер Swarm.md",
-    "05. Docker Swarm/Кластер Docker Engine.md",
     "05. Docker Swarm",
     "04. Модель Container Network и сетевой мост Docker/Мост Linux.md",
-    "04. Модель Container Network и сетевой мост Docker/veth.md",
     "04. Модель Container Network и сетевой мост Docker/docker0.md",
     "04. Модель Container Network и сетевой мост Docker/Сетевой мост (Bridge) Docker.md",
     "02. Контейнеры и образы/Контрольная сумма (digest).md",
@@ -203,13 +210,6 @@
     "04. Модель Container Network и сетевой мост Docker/Container Network Model (CNM).md",
     "04. Модель Container Network и сетевой мост Docker/Песочница (Sandbox).md",
     "04. Модель Container Network и сетевой мост Docker/Конечная точка (Endpoint).md",
-    "03. Драйверы хранилища и тома/Tmpfs (Temporary file system).md",
-    "03. Драйверы хранилища и тома/Bind Mount (Монтирование каталогов с хоста).md",
-    "03. Драйверы хранилища и тома/Backing Filesystem.md",
-    "03. Драйверы хранилища и тома/Флаг монтировки \"ro\".md",
-    "03. Драйверы хранилища и тома/Том Docker.md",
-    "03. Драйверы хранилища и тома/Драйвер хранилища (Storage Driver).md",
-    "03. Драйверы хранилища и тома/Директория слоя (overlay2).md",
     "04. Модель Container Network и сетевой мост Docker",
     "03. Драйверы хранилища и тома",
     "00.02 Docker Команды",
