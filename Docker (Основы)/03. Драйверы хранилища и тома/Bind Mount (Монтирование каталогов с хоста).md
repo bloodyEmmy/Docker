@@ -11,7 +11,7 @@
 ***
 ***Синтаксис***:
 >***docker run -v /home/user/mydata:/app/data my-image***
-- [[Команда "run"]].
+- [[00.02. Docker Команды/Команда "run"]].
 - /home/user/mydata - папка на хосте.
 - /app/data - папка внутри контейнера.
 - Важно: содержимое mydata = data.
