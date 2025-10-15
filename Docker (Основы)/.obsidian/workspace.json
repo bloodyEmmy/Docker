@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05. Docker Swarm/Токены.md",
+                "file": "00.03. Swarm Команды/Команда Swarm Join.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Токены"
+              "title": "Команда Swarm Join"
             }
           }
         ]
@@ -183,8 +183,11 @@
   },
   "active": "5404646aaed872f3",
   "lastOpenFiles": [
+    "05. Docker Swarm/Токен.md",
+    "00.03. Swarm Команды/Команда Swarm Join.md",
+    "00.03. Swarm Команды/Команда Swarm Init.md",
+    "00.03. Swarm Команды",
     "05. Docker Swarm/Узлы в Swarm (Nodes).md",
-    "05. Docker Swarm/Токены.md",
     "05. Docker Swarm/Raft Consensus.md",
     "05. Docker Swarm/Задача (Task) в Swarm.md",
     "05. Docker Swarm/Сервис в Swarm.md",
@@ -195,7 +198,7 @@
     "05. Docker Swarm/Управляющие узлы (manager nodes).md",
     "05. Docker Swarm/Docker Swarm.md",
     "04. Модель Container Network и сетевой мост Docker/veth.md",
-    "00.01 Dockerfile Команды/Команда EXPOSE.md",
+    "00.01. Dockerfile Команды/Команда EXPOSE.md",
     "04. Модель Container Network и сетевой мост Docker/Собственные (встроенные) сетевые драйверы Docker.md",
     "03. Драйверы хранилища и тома/OverlayFS.md",
     "01. Контейнеризация и Docker/Docker Engine.md",
@@ -208,12 +211,10 @@
     "04. Модель Container Network и сетевой мост Docker/Сетевые драйверы Docker.md",
     "04. Модель Container Network и сетевой мост Docker/IP Adress Management (IPAM).md",
     "04. Модель Container Network и сетевой мост Docker/Container Network Model (CNM).md",
-    "04. Модель Container Network и сетевой мост Docker/Песочница (Sandbox).md",
-    "04. Модель Container Network и сетевой мост Docker/Конечная точка (Endpoint).md",
     "04. Модель Container Network и сетевой мост Docker",
     "03. Драйверы хранилища и тома",
-    "00.02 Docker Команды",
-    "00.01 Dockerfile Команды",
+    "00.02. Docker Команды",
+    "00.01. Dockerfile Команды",
     "00 хз куда деть",
     "02. Контейнеры и образы",
     "Без названия.canvas",
