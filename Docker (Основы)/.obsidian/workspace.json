@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.03. Swarm Команды/Команда \"node\".md",
+                "file": "00.02. Docker Команды/Команда \"network\".md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Команда \"node\""
+              "title": "Команда \"network\""
             }
           }
         ]
@@ -183,11 +183,22 @@
   },
   "active": "5404646aaed872f3",
   "lastOpenFiles": [
-    "00.03. Swarm Команды/Команда \"swarm leave\".md",
-    "00.03. Swarm Команды/Команда \"node\".md",
-    "00.03. Swarm Команды/Команда \"swarm init\".md",
+    "04. Модель Container Network и сетевой мост Docker/veth.md",
+    "00.02. Docker Команды/Команда \"network\".md",
+    "04. Модель Container Network и сетевой мост Docker/Собственные (встроенные) сетевые драйверы Docker.md",
+    "04. Модель Container Network и сетевой мост Docker/Сетевой мост (Bridge) Docker.md",
+    "04. Модель Container Network и сетевой мост Docker/docker0.md",
+    "04. Модель Container Network и сетевой мост Docker/Сеть Docker.md",
     "00.03. Swarm Команды/Команда \"swarm join-token\".md",
     "00.03. Swarm Команды/Команда \"swarm join\".md",
+    "00.03. Swarm Команды/Команда \"swarm init\".md",
+    "00.03. Swarm Команды/Команда \"node\".md",
+    "00.03. Swarm Команды/Опция \"update\" команды \"node\".md",
+    "00.03. Swarm Команды/Команда \"swarm leave\".md",
+    "05. Docker Swarm/Метка (Label).md",
+    "05. Docker Swarm/Типы статусов узлов Swarm.md",
+    "05. Docker Swarm/Raft Consensus.md",
+    "05. Docker Swarm/Узлы в Swarm (Nodes).md",
     "00.03. Swarm Команды/Команда.md",
     "00.01. Dockerfile Команды/Команда \"WORKDIR\".md",
     "00.01. Dockerfile Команды/Опция \"--from\" команды \"COPY\".md",
@@ -198,18 +209,7 @@
     "00.01. Dockerfile Команды/Команда \"FROM\".md",
     "00.01. Dockerfile Команды/Команда \"EXPOSE\".md",
     "00.01. Dockerfile Команды/Команда \"ENV\".md",
-    "00.01. Dockerfile Команды/Команда \"ENTRYPOINT\".md",
-    "00.01. Dockerfile Команды/Команда \"COPY\".md",
-    "00.01. Dockerfile Команды/Команда \"CMD\".md",
-    "00.01. Dockerfile Команды/Команда \"ADD\".md",
-    "05. Docker Swarm/Токен.md",
     "00.03. Swarm Команды",
-    "05. Docker Swarm/Узлы в Swarm (Nodes).md",
-    "05. Docker Swarm/Raft Consensus.md",
-    "05. Docker Swarm/Задача (Task) в Swarm.md",
-    "05. Docker Swarm/Сервис в Swarm.md",
-    "05. Docker Swarm/Etcd.md",
-    "05. Docker Swarm/Кластер Docker Engine.md",
     "05. Docker Swarm",
     "04. Модель Container Network и сетевой мост Docker",
     "03. Драйверы хранилища и тома",
