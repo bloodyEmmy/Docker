@@ -1,4 +1,4 @@
-#flashcards 
+#flashcards
 ***
 Изменяет количество реплик, то есть копий ([[Задача (Task) в Swarm]]) одного [[Сервис в Swarm]].
 ***Синтаксис***:
@@ -9,3 +9,4 @@
 1. docker service scale web=5
 2. docker service scale web=5 api=3 worker=10
 3. docker service scale web=0 (остановить все реплики)
+<!--SR:!2025-10-22,3,250-->

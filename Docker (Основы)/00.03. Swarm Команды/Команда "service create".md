@@ -1,4 +1,4 @@
-#flashcards 
+#flashcards
 ***
 Создает новый [[Сервис в Swarm]].
 Синтаксис:
@@ -11,3 +11,4 @@
 3. --mode < replicated|global> - Тип сервиса. По умолчанию replicated.
 4. --mount type=< volume|bind>,source=< source>,target=< target> - Монтирование [[Том Docker]] или просто [[Bind Mount (Монтирование каталогов с хоста)]]
 5. --network < network> - Подключение к [[Сеть Docker]].
+<!--SR:!2025-10-22,3,250-->

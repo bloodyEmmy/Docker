@@ -8,4 +8,4 @@
 >LABEL maintainer="<почта>" \
 >version="1.0" \
 >description="My Docker"
-<!--SR:!2025-10-18,1,190-->
+<!--SR:!2025-10-21,2,190-->
