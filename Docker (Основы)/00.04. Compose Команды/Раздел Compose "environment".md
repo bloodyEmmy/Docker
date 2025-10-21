@@ -5,3 +5,8 @@
 >environment:
 >	- DB_USER=postgress
 >	- DB_PASS=1234
+- Таким образом прописываются "жесткие" статические переменные. Они одинаковые для всех запусков, если файл [[Docker Compose]] не меняется.
+***Другой вид***:
+>environment:
+>	DEBUG: "1"
+>	LOG_LEVEL: "info"
