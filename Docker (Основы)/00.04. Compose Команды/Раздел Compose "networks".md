@@ -1,4 +1,4 @@
-#flashcards 
+#flashcards
 ***
 Создает виртуальные сети ([[Сеть Docker]]) между [[Сервис в Swarm]] для общения между ними.
 ***Пример***:
@@ -8,3 +8,4 @@
 >networks:
 >	mynetwork:
 >		driver: overlay
+<!--SR:!2025-11-09,8,250-->

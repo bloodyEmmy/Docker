@@ -14,4 +14,4 @@
 Пример:
 >***docker run -e APP_ENV=smth myapp***
 - где ENV APP_ENV=production - слой в Dockerfile.
-<!--SR:!2025-10-21,4,230-->
+<!--SR:!2025-11-07,10,230-->
