@@ -11,4 +11,4 @@
 3. --mode < replicated|global> - Тип сервиса. По умолчанию replicated.
 4. --mount type=< volume|bind>,source=< source>,target=< target> - Монтирование [[Том Docker]] или просто [[Bind Mount (Монтирование каталогов с хоста)]]
 5. --network < network> - Подключение к [[Сеть Docker]].
-<!--SR:!2025-11-18,4,230-->
+<!--SR:!2025-11-27,9,230-->

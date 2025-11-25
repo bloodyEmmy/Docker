@@ -9,4 +9,4 @@
 1. docker service scale web=5
 2. docker service scale web=5 api=3 worker=10
 3. docker service scale web=0 (остановить все реплики)
-<!--SR:!2025-11-18,4,230-->
+<!--SR:!2025-11-30,10,230-->

@@ -13,4 +13,4 @@
 5. --mount-add type=< type>,source=< source>,target=< target> - Добавить [[Bind Mount (Монтирование каталогов с хоста)]].
 6. --mount-rm < target> - Удалить бинд.
 7. --rollback - Откатить к предыдущей версии. По сути - [[Команда "service rollback"]].
-<!--SR:!2025-11-19,5,230-->
+<!--SR:!2025-12-03,13,230-->

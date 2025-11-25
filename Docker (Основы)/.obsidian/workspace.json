@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07. Сети Docker/Сеть MACVLAN.md",
+                "file": "00.00 Вспомогательные команды/Команда \"ip route\".md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сеть MACVLAN"
+              "title": "Команда \"ip route\""
             }
           }
         ]
@@ -181,10 +181,19 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "094ba55edd1f170e",
+  "active": "5404646aaed872f3",
   "lastOpenFiles": [
-    "04. Модель Container Network и сетевой мост Docker/Собственные (встроенные) сетевые драйверы Docker.md",
+    "00.00 Вспомогательные команды/Команда \"ip addr\".md",
+    "00.00 Вспомогательные команды/Команда \"ip route\".md",
+    "00.00 Вспомогательные команды/Команда \"which docker\".md",
+    "00.00 Вспомогательные команды/Команда \"ifconfig\".md",
     "07. Сети Docker/Сеть MACVLAN.md",
+    "07. Сети Docker/Сети в Docker.md",
+    "07. Сети Docker/Пространства имен (namespaces).md",
+    "01. Контейнеризация и Docker/Микросервис.md",
+    "01. Контейнеризация и Docker/Docker Rest API.md",
+    "01. Контейнеризация и Docker/Docker Hub, Registry.md",
+    "04. Модель Container Network и сетевой мост Docker/Собственные (встроенные) сетевые драйверы Docker.md",
     "07. Сети Docker/Фреймворк Netfilter.md",
     "00.04. Compose Команды/Раздел Compose \"networks\".md",
     "00.04. Compose Команды/Раздел Compose \"restart\".md",
@@ -200,15 +209,6 @@
     "00.02. Docker Команды/Команда \"container\".md",
     "00.02. Docker Команды/Команда \"image\".md",
     "00.02. Docker Команды/Команда \"inspect\".md",
-    "00.02. Docker Команды/Команда \"unpause\".md",
-    "00.02. Docker Команды/Команда \"volume\".md",
-    "00.02. Docker Команды/Команда \"network\".md",
-    "07. Сети Docker/Использование пространства имен существующего контейнера.md",
-    "07. Сети Docker/Сети в Docker.md",
-    "07. Сети Docker/Пространства имен (namespaces).md",
-    "07. Сети Docker/Сеть Bridge.md",
-    "04. Модель Container Network и сетевой мост Docker/veth.md",
-    "01. Контейнеризация и Docker/Docker Hub, Registry.md",
     "00.00 Вспомогательные команды",
     "07. Сети Docker",
     "00.04. Compose Команды",

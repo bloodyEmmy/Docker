@@ -6,4 +6,4 @@
 1. [[Overlay Network]] (если сделал админ)
 2. [[Ingress Network]]
 3. [[Docker_gwbridge]]
-<!--SR:!2025-11-23,9,230-->
+<!--SR:!2025-12-15,22,230-->

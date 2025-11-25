@@ -9,4 +9,4 @@
 ***
 Можно обойтись и без ENTRYPOINT:
 >***docker run --entrypoint /bin/bash myimage***
-<!--SR:!2025-11-21,7,210-->
+<!--SR:!2025-12-06,15,210-->
