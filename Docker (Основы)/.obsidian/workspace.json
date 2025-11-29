@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07. Сети Docker/Сеть Overlay.md",
+                "file": "07. Сети Docker/Loopback.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сеть Overlay"
+              "title": "Loopback"
             }
           }
         ]
@@ -183,8 +183,9 @@
   },
   "active": "5404646aaed872f3",
   "lastOpenFiles": [
-    "05. Docker Swarm/Ingress Network.md",
     "07. Сети Docker/Сеть Overlay.md",
+    "07. Сети Docker/Loopback.md",
+    "05. Docker Swarm/Ingress Network.md",
     "04. Модель Container Network и сетевой мост Docker/Сетевые драйверы Docker.md",
     "04. Модель Container Network и сетевой мост Docker/Собственные (встроенные) сетевые драйверы Docker.md",
     "07. Сети Docker/Сеть хоста.md",
@@ -208,7 +209,6 @@
     "00.03. Swarm Команды/Команда \"service rollback\".md",
     "00.03. Swarm Команды/Команда \"service rm\".md",
     "00.02. Docker Команды/Команда \"build\".md",
-    "00.02. Docker Команды/Команда \"commit\".md",
     "00.00 Вспомогательные команды",
     "07. Сети Docker",
     "00.04. Compose Команды",
