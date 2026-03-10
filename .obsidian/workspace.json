@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "8ee3cf5ac6f5df7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "13a33da5e8d16a86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6f19a3cc25984c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker (Основы)/00.00 Вспомогательные команды/Команда ifconfig.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Команда ifconfig"
+            }
+          },
+          {
+            "id": "765a1ea5453dc608",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Дополнительные материалы/Гош_Сайбал_Docker_без_секретов_2023.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Гош_Сайбал_Docker_без_секретов_2023"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cea1e950522d31f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9ae1546f4eaab6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa75acd86ca16ff8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "375dc6fb7b70b80b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "51ec7fcad9fcf9ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5
+  },
+  "right": {
+    "id": "711b828e4390d134",
+    "type": "split",
+    "children": [
+      {
+        "id": "895421cfc0de933e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f92483b466f62af7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Docker (Основы)/00.00 Вспомогательные команды/Команда ifconfig.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Команда ifconfig"
+            }
+          },
+          {
+            "id": "05ea0ea0ae9bf2b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Docker (Основы)/00.00 Вспомогательные команды/Команда ifconfig.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Команда ifconfig"
+            }
+          },
+          {
+            "id": "f957738e498c7053",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "63e12575d072c282",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "800c22fd4f90b057",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Docker (Основы)/00.00 Вспомогательные команды/Команда ifconfig.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Команда ifconfig"
+            }
+          },
+          {
+            "id": "4c049839937b0fd0",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Очередь заметок на повторение"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-spaced-repetition:Изучать карточки": false
+    }
+  },
+  "active": "765a1ea5453dc608",
+  "lastOpenFiles": [
+    "Docker (Основы)/00.04. Compose Команды/Команда compose exec.md",
+    "Дополнительные материалы/Гош_Сайбал_Docker_без_секретов_2023.pdf",
+    "Дополнительные материалы",
+    "Docker (Основы)/00.04. Compose Команды/Команда compose down.md",
+    "Docker (Основы)/00.04. Compose Команды/Команда compose build.md",
+    "Docker (Основы)/00.03. Swarm Команды/Опция update команды node Swarm.md",
+    "Docker (Основы)/00.03. Swarm Команды/Service scale команда Swarm.md",
+    "Docker (Основы)/00.03. Swarm Команды/Service update команда Swarm.md",
+    "Docker (Основы)/00.03. Swarm Команды/Swarm init команда Swarm.md",
+    "Docker (Основы)/00.03. Swarm Команды/Swarm join команда Swarm.md",
+    "Docker (Основы)/00.03. Swarm Команды/Swarm join token команда Swarm.md",
+    "Docker (Основы)/00.03. Swarm Команды/Swarm leave команда Swarm.md",
+    "Docker (Основы)/00.03. Swarm Команды/Service rollback команда Swarm.md",
+    "Docker (Основы)/00.03. Swarm Команды/Service rm команда Swarm.md",
+    "Docker (Основы)/00.03. Swarm Команды/Service ps команда Swarm.md",
+    "Docker (Основы)/00.03. Swarm Команды/Service ls команда Swarm.md",
+    "Docker (Основы)/00.03. Swarm Команды/Service inspect команда Swarm.md",
+    "Docker (Основы)/00.03. Swarm Команды/Service create команда Swarm.md",
+    "Docker (Основы)/00.03. Swarm Команды/Node команда Swarm.md",
+    "Docker (Основы)/05. Docker Swarm/Управляющие узлы (manager nodes).md",
+    "Docker (Основы)/05. Docker Swarm/Узлы в Swarm (Nodes).md",
+    "Docker (Основы)/05. Docker Swarm/Docker Swarm.md",
+    "Docker (Основы)/05. Docker Swarm/Сервис в Swarm.md",
+    "Docker (Основы)/04. Модель Container Network и сетевой мост Docker/Сеть Docker.md",
+    "Docker (Основы)/00.02. Docker Команды/Create команда Docker.md",
+    "Docker (Основы)/00.02. Docker Команды/Rmi команда Docker.md",
+    "Docker (Основы)/00.02. Docker Команды/Images команда Docker.md",
+    "Docker (Основы)/00.02. Docker Команды/Commit команда Docker.md"
+  ]
+}
