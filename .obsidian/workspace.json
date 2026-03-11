@@ -25,12 +25,14 @@
             "id": "765a1ea5453dc608",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Дополнительные материалы/Гош_Сайбал_Docker_без_секретов_2023_compressed.pdf"
+                "file": "Docker (Основы)/03. Драйверы хранилища и тома/Tmpfs (Temporary file system).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Гош_Сайбал_Docker_без_секретов_2023_compressed"
+              "icon": "lucide-file",
+              "title": "Tmpfs (Temporary file system)"
             }
           }
         ],
@@ -66,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"Дополнительные материалы/\" ",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,33 +212,34 @@
   },
   "active": "765a1ea5453dc608",
   "lastOpenFiles": [
-    "Docker (Основы)/00.04. Compose Команды/Команда compose exec.md",
+    "Docker (Основы)/03. Драйверы хранилища и тома/OverlayFS.md",
+    "Docker (Основы)/03. Драйверы хранилища и тома/Bind Mount (Монтирование каталогов с хоста).md",
+    "Docker (Основы)/03. Драйверы хранилища и тома/Backing Filesystem.md",
+    "Docker (Основы)/03. Драйверы хранилища и тома/Флаг монтировки ro.md",
+    "Docker (Основы)/03. Драйверы хранилища и тома/Том Docker.md",
+    "Docker (Основы)/03. Драйверы хранилища и тома/Tmpfs (Temporary file system).md",
+    "Docker (Основы)/03. Драйверы хранилища и тома/Драйвер хранилища (Storage Driver).md",
+    "Docker (Основы)/03. Драйверы хранилища и тома/Директория слоя (overlay2).md",
+    "Docker (Основы)/03. Драйверы хранилища и тома/Висячий том (Dangling Volume).md",
+    "Docker (Основы)/02. Контейнеры и образы/Dockerfile.md",
+    "Docker (Основы)/02. Контейнеры и образы/Состояния контейнеров Docker.md",
+    "Docker (Основы)/02. Контейнеры и образы/Многоступенчатая сборка.md",
+    "Docker (Основы)/00.01. Dockerfile Команды/FROM команда Dockerfile.md",
+    "Docker (Основы)/02. Контейнеры и образы/Лог контейнера.md",
+    "Docker (Основы)/02. Контейнеры и образы/Кэш в Docker.md",
+    "Docker (Основы)/02. Контейнеры и образы/Висячий образ (Dangling Image).md",
+    "Docker (Основы)/02. Контейнеры и образы/Драйвер журналирования.md",
+    "Docker (Основы)/02. Контейнеры и образы/Контейнер.md",
+    "Docker (Основы)/02. Контейнеры и образы/Контрольная сумма (digest).md",
+    "Docker (Основы)/01. Контейнеризация и Docker/Docker Rest API.md",
+    "Docker (Основы)/01. Контейнеризация и Docker/Docker Hub, Registry.md",
+    "Docker (Основы)/01. Контейнеризация и Docker/Docker Engine.md",
+    "Docker (Основы)/01. Контейнеризация и Docker/Docker Daemon.md",
+    "Docker (Основы)/04. Модель Container Network и сетевой мост Docker/Сеть Docker.md",
+    "Docker (Основы)/04. Модель Container Network и сетевой мост Docker/Container Network Model (CNM).md",
+    "Docker (Основы)/01. Контейнеризация и Docker/Docker Client (CLI).md",
     "Дополнительные материалы/Гош_Сайбал_Docker_без_секретов_2023_compressed.pdf",
     "Дополнительные материалы/Гош_Сайбал_Docker_без_секретов_2023.pdf",
-    "Дополнительные материалы",
-    "Docker (Основы)/00.04. Compose Команды/Команда compose down.md",
-    "Docker (Основы)/00.04. Compose Команды/Команда compose build.md",
-    "Docker (Основы)/00.03. Swarm Команды/Опция update команды node Swarm.md",
-    "Docker (Основы)/00.03. Swarm Команды/Service scale команда Swarm.md",
-    "Docker (Основы)/00.03. Swarm Команды/Service update команда Swarm.md",
-    "Docker (Основы)/00.03. Swarm Команды/Swarm init команда Swarm.md",
-    "Docker (Основы)/00.03. Swarm Команды/Swarm join команда Swarm.md",
-    "Docker (Основы)/00.03. Swarm Команды/Swarm join token команда Swarm.md",
-    "Docker (Основы)/00.03. Swarm Команды/Swarm leave команда Swarm.md",
-    "Docker (Основы)/00.03. Swarm Команды/Service rollback команда Swarm.md",
-    "Docker (Основы)/00.03. Swarm Команды/Service rm команда Swarm.md",
-    "Docker (Основы)/00.03. Swarm Команды/Service ps команда Swarm.md",
-    "Docker (Основы)/00.03. Swarm Команды/Service ls команда Swarm.md",
-    "Docker (Основы)/00.03. Swarm Команды/Service inspect команда Swarm.md",
-    "Docker (Основы)/00.03. Swarm Команды/Service create команда Swarm.md",
-    "Docker (Основы)/00.03. Swarm Команды/Node команда Swarm.md",
-    "Docker (Основы)/05. Docker Swarm/Управляющие узлы (manager nodes).md",
-    "Docker (Основы)/05. Docker Swarm/Узлы в Swarm (Nodes).md",
-    "Docker (Основы)/05. Docker Swarm/Docker Swarm.md",
-    "Docker (Основы)/05. Docker Swarm/Сервис в Swarm.md",
-    "Docker (Основы)/04. Модель Container Network и сетевой мост Docker/Сеть Docker.md",
-    "Docker (Основы)/00.02. Docker Команды/Create команда Docker.md",
-    "Docker (Основы)/00.02. Docker Команды/Rmi команда Docker.md",
-    "Docker (Основы)/00.02. Docker Команды/Images команда Docker.md"
+    "Дополнительные материалы"
   ]
 }
